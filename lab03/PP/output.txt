@@ -1,0 +1,19 @@
+				  Case : 1
+PID   PR    AT    BT    ST    CT    TOT   WT    RT    
+1     2     0     4     0     15    15    11    0     
+2     3     1     3     1     12    11    8     0     
+3     4     2     1     2     3     1     0     0     
+4     5     3     5     3     8     5     0     0     
+5     5     4     2     8     10    6     4     4     
+Avg TOT = 7.6
+Avg WT  = 4.6
+
+				  Case : 2
+PID   PR    AT    BT    ST    CT    TOT   WT    RT    
+1     1     0     5     17    22    22    17    17    
+2     2     0     7     10    17    17    10    10    
+3     3     0     2     8     10    10    8     8     
+4     4     0     8     0     8     8     0     0     
+Avg TOT = 14.25
+Avg WT  = 8.75
+
